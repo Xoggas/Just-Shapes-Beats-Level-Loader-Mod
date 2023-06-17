@@ -27,9 +27,8 @@
 4. A button with name `Xoggas` will appear on the toolbar, click it and select a Level Parser option.
 5. Click `Choose JSB directory` and find your game folder.
 6. Click `Create Folders` button.
-7. Select the `Song Name` field and write a level name here. 
-> Use only capital letters
-8. Select the `Artist Name` and write an artist name here.
+7. Select the `Song Name` field and write a level name here. (Use only capital letters)
+8. Select the `Artist Name` and write an artist name here. (Here you can use small and capital letters)
 9. Drag your level file into the `Normal Level` and `Hardcore Level` fields. 
 > If you want to make different levels for normal and hardcore you will need to create two separate files
 10. Drag the song file into the `Song` field.
