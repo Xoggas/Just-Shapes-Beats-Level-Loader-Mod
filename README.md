@@ -4,11 +4,11 @@
 
 - #### [Unity 2019.4.28](https://unity.com/releases/editor/archive) (the only version of Unity supported, others won't work).
 - #### [Just Shapes and Beats](https://store.steampowered.com/app/531510/Just_Shapes__Beats/) (1.6.31 or lower).
-- #### [BepInEx](https://builds.bepinex.dev/projects/bepinex_be) installed.
+- #### [BepInEx](https://builds.bepinex.dev/projects/bepinex_be/551/BepInEx_UnityIL2CPP_x64_b7a05a6_6.0.0-be.551.zip) installed.
 
 ## Mod Installation 
 
-1. Download [`BepInEx`](https://builds.bepinex.dev/projects/bepinex_be) Unity (IL2CPP) for Windows.
+1. Download [`BepInEx`](https://builds.bepinex.dev/projects/bepinex_be/551/BepInEx_UnityIL2CPP_x64_b7a05a6_6.0.0-be.551.zip).
 2. Unpack everything to the root game folder, you can open it via steam. 
   > Don't close the folder, you will need it soon <br />
   > Go to Steam => Library => Right click on the game => Manage => Browse local files
