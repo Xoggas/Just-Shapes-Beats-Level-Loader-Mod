@@ -2,7 +2,7 @@
 
 ## Requirements
 
-- #### Unity 2019.4.28f1 (the only version of Unity supported, others won't work).
+- #### [Unity 2019.4.28](https://unity.com/releases/editor/archive) (the only version of Unity supported, others won't work).
 - #### Just Shapes and Beats (1.6.31 or lower).
 - #### [BepInEx](https://builds.bepinex.dev/projects/bepinex_be) installed.
 
@@ -35,5 +35,5 @@
 10. Drag the song file into the `Song` field.
 11. Press the `Export` button.
 12. Wait until processing is complete.
-13. Click `Laucnh JSB` button.
+13. Click `Launch JSB` button.
 14. Now you can open the `Playlist` and find your level in the end.
