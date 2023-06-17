@@ -20,7 +20,7 @@
 6. Launch the game again and wait for the intro. Close the game.
 
 ## Level conversion
-1. Open Unity and open the `Level Bundler.unitypackage` file.
+1. Open Unity and open the `Level Bundler.unitypackage` file then.
 2. A window will open, click `Import`.
 3. Import your level file and the music file you used in the editor to Unity.
 > json and mp3 files
