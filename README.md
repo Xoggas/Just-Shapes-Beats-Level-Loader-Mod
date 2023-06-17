@@ -14,7 +14,7 @@
 3. Launch the game and wait for the intro. Close the game.
 4. Download the mod files. (You can find them in the releases tab)
 5. Import the **Level Loader.dll** into the plugins folder.
-> Open your game folder and go to BepInEx folder => plugins.
+> Open your game folder and go to BepInEx folder => plugins
 6. Launch the game again and wait for the intro. Close the game.
 
 ## Level conversion
