@@ -12,9 +12,10 @@
 2. Unpack everything to the game folder, you can open it via steam. (Don't close the folder, you will need it soon)
 > Go to Steam => Library => Right click on the game => Manage => Browse local files
 3. Launch the game and wait for the intro. Close the game.
-4. Import the **Level Loader.dll** into the plugins folder.
+4. Download the mod files. (You can find them in the releases tab)
+5. Import the **Level Loader.dll** into the plugins folder.
 > Open your game folder and go to BepInEx folder => plugins.
-5. Launch the game again and wait for the intro. Close the game.
+6. Launch the game again and wait for the intro. Close the game.
 
 ## Level conversion
 1. Open Unity and drag **Level Bundler.unitypackage** into the inspector window.
