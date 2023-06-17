@@ -10,12 +10,8 @@
 
 1. Download [`BepInEx`](https://builds.bepinex.dev/projects/bepinex_be) Unity (IL2CPP) for Windows.
 2. Unpack everything to the game folder, you can open it via steam. 
-<sub> 
-  Don't close the folder, you will need it soon 
-    <br />
-  Go to Steam => Library => Right click on the game => Manage => Browse local files
-</sub>
-<br />
+> Don't close the folder, you will need it soon <br />
+> Go to Steam => Library => Right click on the game => Manage => Browse local files
 3. Launch the game and wait for the intro. Close the game.
 4. Download the mod files.
 > You can find them in the releases tab
