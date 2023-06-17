@@ -3,7 +3,7 @@
 ## Requirements
 
 - #### [Unity 2019.4.28](https://unity.com/releases/editor/archive) (the only version of Unity supported, others won't work).
-- #### Just Shapes and Beats (1.6.31 or lower).
+- #### [Just Shapes and Beats](https://store.steampowered.com/app/531510/Just_Shapes__Beats/) (1.6.31 or lower).
 - #### [BepInEx](https://builds.bepinex.dev/projects/bepinex_be) installed.
 
 ## Mod Installation 
