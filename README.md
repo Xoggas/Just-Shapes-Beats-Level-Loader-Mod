@@ -23,7 +23,7 @@
 1. Open Unity and open the `Level Bundler.unitypackage` file then.
 2. A window will open, click `Import`.
 3. Import your level file and the music file you used in the editor to Unity.
-> txt and mp3 files
+> The txt and mp3 files
 4. A button with name `Xoggas` will appear on the toolbar, click it and select a Level Parser option.
 5. Click `Choose JSB directory` and find your game folder.
 6. Click `Create Folders` button.
